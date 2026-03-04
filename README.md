@@ -78,3 +78,9 @@ Matplotlib
 Wei Wenhao  
 Robotics Engineering Undergraduate  
 Northeastern University (China)
+## Project Structure
+main.py # main simulation
+controller.py # PID + RL controller
+auv_env.py # AUV simulation environment
+train.py # RL training process
+plots.py # visualization
